@@ -1,0 +1,19 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "old school pr",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kantoshyna/school.git"
+  },
+  "author": "kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kantoshyna/school/issues"
+  },
+  "homepage": "https://github.com/kantoshyna/school#readme"
+}
